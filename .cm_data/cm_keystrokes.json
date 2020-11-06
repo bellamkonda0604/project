@@ -1,0 +1,1027 @@
+{
+    "sample.py": [
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:27:53",
+            "keyStrokeInfo": "",
+            "position": "7,41"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:27:57",
+            "keyStrokeInfo": "",
+            "position": "7,43"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:27:57",
+            "keyStrokeInfo": "",
+            "position": "7,42"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:27:58",
+            "keyStrokeInfo": "",
+            "position": "7,41"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:27:58",
+            "keyStrokeInfo": "",
+            "position": "7,40"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:01",
+            "keyStrokeInfo": "",
+            "position": "7,50"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:01",
+            "keyStrokeInfo": "",
+            "position": "7,49"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:01",
+            "keyStrokeInfo": "",
+            "position": "7,48"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:01",
+            "keyStrokeInfo": "",
+            "position": "7,47"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:02",
+            "keyStrokeInfo": "",
+            "position": "7,46"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:02",
+            "keyStrokeInfo": "",
+            "position": "7,45"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:02",
+            "keyStrokeInfo": "",
+            "position": "7,44"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:02",
+            "keyStrokeInfo": "",
+            "position": "7,43"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:02",
+            "keyStrokeInfo": "",
+            "position": "7,42"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:03",
+            "keyStrokeInfo": "",
+            "position": "7,41"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:03",
+            "keyStrokeInfo": "",
+            "position": "7,40"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:03",
+            "keyStrokeInfo": "",
+            "position": "7,39"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:05",
+            "keyStrokeInfo": "()",
+            "position": "7,39"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:08",
+            "keyStrokeInfo": "\"\"",
+            "position": "7,40"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:10",
+            "keyStrokeInfo": "",
+            "position": "7,40"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:10",
+            "keyStrokeInfo": "''",
+            "position": "7,40"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:11",
+            "keyStrokeInfo": "h",
+            "position": "7,41"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:12",
+            "keyStrokeInfo": "o",
+            "position": "7,42"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:12",
+            "keyStrokeInfo": "m",
+            "position": "7,43"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:12",
+            "keyStrokeInfo": "e",
+            "position": "7,44"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:14",
+            "keyStrokeInfo": ".",
+            "position": "7,45"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:15",
+            "keyStrokeInfo": "p",
+            "position": "7,46"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:15",
+            "keyStrokeInfo": "n",
+            "position": "7,47"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:28:16",
+            "keyStrokeInfo": "g",
+            "position": "7,48"
+        }
+    ],
+    "home.py": [
+        {
+            "operation": "PASTE",
+            "lines": 4,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:30:39",
+            "keyStrokeInfo": "import pygame\r\nimport time\r\nimport random\r\nimport os",
+            "position": "1,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:00",
+            "keyStrokeInfo": "\r\n",
+            "position": "4,10"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:00",
+            "keyStrokeInfo": "\r\n",
+            "position": "5,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 10,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:01",
+            "keyStrokeInfo": "pygame.init()\r\n\r\ndisplay_width = 400\r\ndisplay_height = 600\r\n\r\nbutton_start_x = 75\r\nnew_game_y = 400\r\nquit_y = 460\r\nbutton_width = 242\r\nbutton_height = 50",
+            "position": "6,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:27",
+            "keyStrokeInfo": "\r\n",
+            "position": "15,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:27",
+            "keyStrokeInfo": "\r\n",
+            "position": "16,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 2,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:28",
+            "keyStrokeInfo": "gameDisplay= pygame.display.set_mode((display_width,display_height))\r\npygame.display.set_caption('F1 RaceRoad')",
+            "position": "17,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:31",
+            "keyStrokeInfo": "",
+            "position": "18,39"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:31",
+            "keyStrokeInfo": "",
+            "position": "18,38"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:32",
+            "keyStrokeInfo": "",
+            "position": "18,37"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:32",
+            "keyStrokeInfo": "",
+            "position": "18,36"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:32",
+            "keyStrokeInfo": "",
+            "position": "18,35"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:32",
+            "keyStrokeInfo": "",
+            "position": "18,34"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:32",
+            "keyStrokeInfo": "",
+            "position": "18,33"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:32",
+            "keyStrokeInfo": "",
+            "position": "18,32"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:32",
+            "keyStrokeInfo": "",
+            "position": "18,31"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:33",
+            "keyStrokeInfo": "",
+            "position": "18,30"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:33",
+            "keyStrokeInfo": "",
+            "position": "18,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:34",
+            "keyStrokeInfo": "T",
+            "position": "18,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:34",
+            "keyStrokeInfo": "R",
+            "position": "18,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:34",
+            "keyStrokeInfo": "Y",
+            "position": "18,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:34",
+            "keyStrokeInfo": " ",
+            "position": "18,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:35",
+            "keyStrokeInfo": "T",
+            "position": "18,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:35",
+            "keyStrokeInfo": "O",
+            "position": "18,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:35",
+            "keyStrokeInfo": " ",
+            "position": "18,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:36",
+            "keyStrokeInfo": "E",
+            "position": "18,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:36",
+            "keyStrokeInfo": "S",
+            "position": "18,37"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:36",
+            "keyStrokeInfo": "C",
+            "position": "18,38"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:36",
+            "keyStrokeInfo": "A",
+            "position": "18,39"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:36",
+            "keyStrokeInfo": "P",
+            "position": "18,40"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:31:37",
+            "keyStrokeInfo": "E",
+            "position": "18,41"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:32:57",
+            "keyStrokeInfo": "\r\n",
+            "position": "18,44"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:32:57",
+            "keyStrokeInfo": "\r\n",
+            "position": "19,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 20,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:32:58",
+            "keyStrokeInfo": "def game_intro():\r\n\tintro = True\r\n\tgameDisplay.fill(white)\r\n\ttitle()\r\n\tquit_game=0\r\n\twhile intro:\r\n\t\tfor event in pygame.event.get():\r\n\t\t\tif event.type == pygame.QUIT or quit_game == 1 or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):\r\n\t\t\t\tpygame.quit()\r\n\t\t\t\tquit()\r\n\t\tplay = button(\"New game\", button_start_x, new_game_y, button_width, button_height, greenLight, green)\r\n\t\tquit_game = button(\"Quit\", button_start_x, quit_y, button_width, button_height, redLight, red)\r\n\t\tif event.type == pygame.KEYDOWN:\r\n\t\t\tif event.key == pygame.K_ESCAPE:\r\n\t\t\t\tquit_game = 1\r\n\t\tif play or (event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE):\r\n\t\t\tintro = False\r\n\r\n\t\tpygame.display.update()\r\n\t\tclock.tick(15)",
+            "position": "20,1"
+        }
+    ],
+    "3.py": [
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:58:07",
+            "keyStrokeInfo": "\r\n",
+            "position": "18,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 15,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:58:08",
+            "keyStrokeInfo": "def button(msg, x, y, w, h, inactive_color, active_color, action=None):\r\n\r\n\tmouse = pygame.mouse.get_pos()\r\n\tclick = pygame.mouse.get_pressed()\r\n\tif x + w > mouse[0] > x and y+h > mouse[1] > y:\r\n\t\tpygame.draw.rect(gameDisplay, active_color, (x, y, w, h))\r\n\t\tif click[0] == 1:\r\n\t\t\treturn 1\r\n\telse:\r\n\t\tpygame.draw.rect(gameDisplay, inactive_color, (x, y, w, h))\r\n\r\n\tsmallText = pygame.font.Font('freesansbold.ttf',20)\r\n\tTextSurf, TextRect = text_objects(msg, smallText, white)\r\n\tTextRect.center = ((x + w/2),(y + h/2))\r\n\tgameDisplay.blit(TextSurf,TextRect)",
+            "position": "19,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:58:08",
+            "keyStrokeInfo": "\r\n    ",
+            "position": "33,37"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:58:10",
+            "keyStrokeInfo": "",
+            "position": "34,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 10:58:10",
+            "keyStrokeInfo": "",
+            "position": "35,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:45:16",
+            "keyStrokeInfo": "\r\n    ",
+            "position": "5,18"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:45:41",
+            "keyStrokeInfo": "# ",
+            "position": "4,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:45:56",
+            "keyStrokeInfo": "",
+            "position": "11,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:45:56",
+            "keyStrokeInfo": "3",
+            "position": "11,17"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:45:58",
+            "keyStrokeInfo": "",
+            "position": "12,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:45:59",
+            "keyStrokeInfo": "4",
+            "position": "12,18"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:32",
+            "keyStrokeInfo": "",
+            "position": "47,97"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:33",
+            "keyStrokeInfo": "",
+            "position": "47,96"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:33",
+            "keyStrokeInfo": "",
+            "position": "47,95"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:33",
+            "keyStrokeInfo": "",
+            "position": "47,94"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:33",
+            "keyStrokeInfo": "",
+            "position": "47,93"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:57",
+            "keyStrokeInfo": "\r\n",
+            "position": "1,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:57",
+            "keyStrokeInfo": "i",
+            "position": "2,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:58",
+            "keyStrokeInfo": "m",
+            "position": "2,2"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:58",
+            "keyStrokeInfo": "p",
+            "position": "2,3"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:58",
+            "keyStrokeInfo": "o",
+            "position": "2,4"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:58",
+            "keyStrokeInfo": "r",
+            "position": "2,5"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:58",
+            "keyStrokeInfo": "t",
+            "position": "2,6"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:58",
+            "keyStrokeInfo": " ",
+            "position": "2,7"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:46:59",
+            "keyStrokeInfo": "p",
+            "position": "2,8"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:47:00",
+            "keyStrokeInfo": "y",
+            "position": "2,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:47:00",
+            "keyStrokeInfo": "g",
+            "position": "2,10"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:47:00",
+            "keyStrokeInfo": "a",
+            "position": "2,11"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:47:01",
+            "keyStrokeInfo": "pygame",
+            "position": "2,8"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:48:14",
+            "keyStrokeInfo": "# ",
+            "position": "35,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:48:18",
+            "keyStrokeInfo": "# ",
+            "position": "2,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:48:26",
+            "keyStrokeInfo": "# ",
+            "position": "48,5"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 11:48:29",
+            "keyStrokeInfo": "",
+            "position": "46,5"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:27",
+            "keyStrokeInfo": "",
+            "position": "46,22"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:27",
+            "keyStrokeInfo": "",
+            "position": "46,21"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:27",
+            "keyStrokeInfo": "",
+            "position": "46,20"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:27",
+            "keyStrokeInfo": "",
+            "position": "46,19"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:27",
+            "keyStrokeInfo": "",
+            "position": "46,18"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:27",
+            "keyStrokeInfo": "",
+            "position": "46,17"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:28",
+            "keyStrokeInfo": "",
+            "position": "46,16"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:28",
+            "keyStrokeInfo": "",
+            "position": "46,15"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:28",
+            "keyStrokeInfo": "",
+            "position": "46,14"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:29",
+            "keyStrokeInfo": "",
+            "position": "46,13"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:29",
+            "keyStrokeInfo": "",
+            "position": "46,12"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:29",
+            "keyStrokeInfo": "",
+            "position": "46,11"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:29",
+            "keyStrokeInfo": "",
+            "position": "46,10"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:29",
+            "keyStrokeInfo": "",
+            "position": "46,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:29",
+            "keyStrokeInfo": "",
+            "position": "46,8"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:30",
+            "keyStrokeInfo": "",
+            "position": "46,7"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:30",
+            "keyStrokeInfo": "",
+            "position": "46,6"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:30",
+            "keyStrokeInfo": "",
+            "position": "46,5"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:31",
+            "keyStrokeInfo": "b",
+            "position": "46,5"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:31",
+            "keyStrokeInfo": "u",
+            "position": "46,6"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:31",
+            "keyStrokeInfo": "t",
+            "position": "46,7"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:31",
+            "keyStrokeInfo": "t",
+            "position": "46,8"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:32",
+            "keyStrokeInfo": "o",
+            "position": "46,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:32",
+            "keyStrokeInfo": "n",
+            "position": "46,10"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:32",
+            "keyStrokeInfo": "Button",
+            "position": "46,5"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:51",
+            "keyStrokeInfo": "c",
+            "position": "46,5"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:51",
+            "keyStrokeInfo": "a",
+            "position": "46,6"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:51",
+            "keyStrokeInfo": "n",
+            "position": "46,7"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:51",
+            "keyStrokeInfo": "v",
+            "position": "46,8"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:51",
+            "keyStrokeInfo": "a",
+            "position": "46,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:52",
+            "keyStrokeInfo": "s",
+            "position": "46,10"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:53",
+            "keyStrokeInfo": ".",
+            "position": "46,11"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:53",
+            "keyStrokeInfo": "c",
+            "position": "46,12"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:53",
+            "keyStrokeInfo": "r",
+            "position": "46,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:53",
+            "keyStrokeInfo": "e",
+            "position": "46,14"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:53",
+            "keyStrokeInfo": "a",
+            "position": "46,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:54",
+            "keyStrokeInfo": "t",
+            "position": "46,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:54",
+            "keyStrokeInfo": "e",
+            "position": "46,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:16:55",
+            "keyStrokeInfo": "_",
+            "position": "46,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:17:12",
+            "keyStrokeInfo": "t",
+            "position": "46,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:17:12",
+            "keyStrokeInfo": "e",
+            "position": "46,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:17:13",
+            "keyStrokeInfo": "x",
+            "position": "46,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:17:13",
+            "keyStrokeInfo": "t",
+            "position": "46,22"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:17:14",
+            "keyStrokeInfo": "create_text",
+            "position": "46,12"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:48:01",
+            "keyStrokeInfo": "\r\n                        ",
+            "position": "47,55"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 2,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 22:48:03",
+            "keyStrokeInfo": "\tplay = button(\"Play Again\", button_start_x, new_game_y, button_width, button_height, greenLight, green)\r\n\t\tquit_game = button(\"Quit\", button_start_x, quit_y, button_width, button_height, redLight, red)",
+            "position": "48,25"
+        }
+    ],
+    "charan": [
+        {
+            "operation": "PASTE",
+            "lines": 109,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 17:43:30",
+            "keyStrokeInfo": "from itertools import *\r\nfrom random import *\r\nfrom tkinter import *\r\nfrom tkinter import messagebox\r\ncanvas_width=800\r\ncanvas_height=400\r\n\r\nwin= Tk()\r\n\r\nlevel=input(\"Enter level : easy, medium, hard\\n\") #difficulty level\r\nif level==\"easy\":\r\n    difficulty_factor=1\r\nelif level==\"medium\":\r\n    difficulty_factor=0.9\r\nelse:\r\n    difficulty_factor=0.7\r\n\r\nc=Canvas(width=canvas_width,height=canvas_height,background='skyblue')\r\nc.create_rectangle(0,canvas_height-80,canvas_width,canvas_height,fill='green')\r\nc.pack()\r\nbowl_color='black'\r\nbowl_width=100\r\nbowl_height=100\r\nbowl_start_x=canvas_width/2 - bowl_width/2\r\nbowl_start_y=canvas_height - bowl_height - 20\r\nbowl_start_x2=bowl_start_x+bowl_width\r\nbowl_start_y2=bowl_start_y+bowl_height\r\nbowl=c.create_arc(bowl_start_x,bowl_start_y,bowl_start_x2,bowl_start_y2, start=200,extent=140,style='arc',outline=bowl_color,width=3)\r\n# egg creation\r\negg_width=40\r\negg_height=60\r\negg_score=10\r\negg_speed=500\r\negg_interval=4000\r\n# difficulty_factor=1\r\neggs=[]\r\ncolor_cycle = cycle(['red' , 'yellow' , 'pink' , 'white' , 'black'])\r\n\r\nscore=0\r\nlives=3\r\nscore_text=c.create_text(10,10,anchor='nw',font=('Arial',20,'bold'),fill='blue',text='score='+str(score))\r\nlives_text=c.create_text(canvas_width-10,10,anchor='ne',font=('Arial',20,'bold'),fill='blue',text='lives='+str(lives))\r\n\r\ndef create_eggs():\r\n    x=randrange(10,750)\r\n    y=40\r\n    new_egg=c.create_oval(x,y,x+egg_width,y+egg_height,fill=next(color_cycle),width=0)\r\n    eggs.append(new_egg)\r\n    win.after(egg_interval,create_eggs)\r\n   \r\ndef move_eggs():\r\n    for egg in eggs:\r\n        (egg_x,egg_y,egg_x2,egg_y2) = c.coords(egg)\r\n        c.move(egg,0,10)\r\n        if egg_y2 > canvas_height:\r\n            eggDropped(egg)\r\n    win.after(egg_speed,move_eggs)\r\n\r\ndef eggDropped(egg):\r\n    eggs.remove(egg)\r\n    c.delete(egg)\r\n    reduceLife()\r\n    if(lives==0):\r\n        messagebox.showinfo('GAME OVER!!!','Final-Score - '+str(score))\r\n        win.destroy()\r\n\r\ndef reduceLife():\r\n    global lives\r\n    lives-=1\r\n    c.itemconfigure(lives_text,text='lives-'+str(lives))\r\n\r\ndef bowlCatch_check():\r\n    (bowl_x,bowl_y,bowl_x2,bowl_y2)=c.coords(bowl)\r\n    for egg in eggs:\r\n        (egg_x,egg_y,egg_x2,egg_y2)=c.coords(egg)\r\n        if bowl_x < egg_x and egg_x2 < bowl_x2 and bowl_y2-egg_y2<40:\r\n            eggs.remove(egg)\r\n            c.delete(egg)\r\n            increaseScore(egg_score)\r\n    win.after(100,bowlCatch_check)\r\n\r\ndef increaseScore(s):\r\n    global score,egg_speed,egg_interval\r\n    score+=s\r\n    egg_speed=int(egg_speed*difficulty_factor)\r\n    egg_interval=int(egg_interval*difficulty_factor)\r\n    c.itemconfigure(score_text,text='score-'+str(score))\r\n\r\n\r\ndef moveBowl_left(event):\r\n    (x1,y1,x2,y2)=c.coords(bowl)\r\n    if x1>0:\r\n        c.move(bowl,-20,0)\r\n\r\ndef moveBowl_right(event):\r\n    (x1,y1,x2,y2)=c.coords(bowl)\r\n    if x2<canvas_width:\r\n         c.move(bowl,20,0)\r\n\r\n\r\nc.bind('<Left>', moveBowl_left)\r\nc.bind('<Right>', moveBowl_right)\r\nc.focus_set()\r\n\r\n\r\nwin.after(1000,create_eggs)\r\nwin.after(1000,move_eggs)\r\nwin.after(1000,bowlCatch_check)\r\nwin.mainloop()",
+            "position": "1,1"
+        }
+    ],
+    "charan.py": [
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 19:59:30",
+            "keyStrokeInfo": "https://docs.google.com/document/d/1uMBIBtfe21Q7pcfJzBiM26NFOu3Mfued_x8A2SuJ2o0/edit",
+            "position": "67,5"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Fri Nov 06 2020 19:59:31",
+            "keyStrokeInfo": "reduceLife",
+            "position": "67,5"
+        }
+    ]
+}
