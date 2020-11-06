@@ -3,30 +3,14 @@ from random import*
 from tkinter import*
 import random
 import time
-canvas_width=800
-canvas_height=400
-import time
 import tkinter as tk
 import basic_graphics
+
+
 display = 0
-
+canvas_width=800
+canvas_height=400
 time_start = time.time()
-#Do function stuff
-
-# def appStarted(app):
-#     app.cx = app.width/2
-#     app.cy = app.height/2
-#     app.r = 40
-
-# def timerFired(app):
-#     app.cx -= 10
-#     if (app.cx + app.r <= 0):
-#         app.cx = app.width + app.r
-
-# def redrawAll(app, canvas):
-#     canvas.create_rectangle(app.cy+app.r, app.cx+app.r,app.cy-app.r, app.cx-app.r,fill='darkGreen')
-
-# runApp(width=600, height=800)
 root = Tk()
 
 root.title('TRY TO ESCAPE')
@@ -43,10 +27,13 @@ speed=500
 interval=4000
 
 obst=[]
-start = True
-aa=10
-score=0
+aa=0
+direct=2
 
+
+
+
+# Creating obstacles
 def create_obs():
     global aa
     if aa!=1:
@@ -58,6 +45,7 @@ def create_obs():
         obst.append(l1)
         root.after(interval,create_obs)
    
+# Moving the obstacles  
 def move_obs():
     global aa
     if aa!=1:
@@ -73,10 +61,7 @@ def move_obs():
         root.after(speed,move_obs)
 
 
-my_circle=my_canvas.create_oval(x-40,y+160,x+40,y+90,fill="black")
-my_canvas.create_line(100,20,100,400)
-direct=2
-my_canvas.create_line(200,20,200,400)
+# Left movement of the ball
 def left(event):
     global direct
     x=-(w//3)
@@ -84,7 +69,8 @@ def left(event):
     if direct>1:
         direct=direct-1
         my_canvas.move(my_circle,-100,y)
-    
+
+#  Right movement of the ball   
 def right(event):
     global direct
     x=w//3
@@ -93,6 +79,7 @@ def right(event):
         direct = direct + 1 
         my_canvas.move(my_circle,x,y)
 
+# Crash between ball and obstacles
 def crash():
     global aa,display
     if(aa!=1):
@@ -109,7 +96,8 @@ def crash():
         root.after(100,crash)
 
 
-def Opening():
+# Initiate  the game
+def Play():
     global time_start,my_circle,score_text,my_canvas,direct
     time_start = time.time()
     global speed
@@ -118,13 +106,19 @@ def Opening():
     aa=0
     obst.clear()
     my_canvas.delete("all")
-    my_circle=my_canvas.create_oval(x-40,y+160,x+40,y+90,fill="black")
-    my_canvas.create_line(100,30,100,400)
     direct=2
     score_text=my_canvas.create_text(115,0,anchor='nw',font=('Oswald',15,'bold'),fill='black',text='score='+str(0))
-    my_canvas.create_line(200,30,200,400)
+    # creation of the ball
+    my_circle=my_canvas.create_oval(x-40,y+160,x+40,y+90,fill="black")
+
+    # Creation of the separating lines
+    my_canvas.create_line(100,20,100,400)
+    my_canvas.create_line(200,20,200,400)
+
+    #initiate the movement of the ball
     root.bind("<Left>",left)
     root.bind("<Right>",right)
+
     root.after(1000,create_obs)
     root.after(1000,move_obs)
     root.after(1000,crash)
@@ -132,20 +126,12 @@ def Opening():
 
 
     
-root.bind("<Left>",left)
-root.bind("<Right>",right)
-root.after(1000,create_obs)
-root.after(1000,move_obs)
-root.after(1000,crash)
 menubar = Menu(root)
 filemenu = Menu(menubar, tearoff=0)
-filemenu = Menu(menubar, tearoff=0)
-# filemenu.add_command(label="New",)
-filemenu.add_command(label="Play", command=Opening)
-
+filemenu.add_command(label="Play", command=Play)
 filemenu.add_separator()
-
 filemenu.add_command(label="Quit", command=root.quit)
 menubar.add_cascade(label="Home", menu=filemenu)
 root.config(menu=menubar)
+Play()
 root.mainloop()
