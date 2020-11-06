@@ -39,7 +39,7 @@ def create_obs():
     if aa!=1:
         my_canvas.itemconfigure(score_text,text='score='+str(int(time.time() - time_start)))
         x=randrange(1,4)
-        color_cycle = random.choice(('red', 'yellow', 'green','white','mediumvioletred', 'aqua','black'))
+        color_cycle = random.choice(('red', 'yellow', 'lightgreen','white','mediumvioletred', 'aqua','black'))
         # y=40
         l1=my_canvas.create_rectangle((x-1)*100,20,x*100,70,fill=color_cycle)
         obst.append(l1)
