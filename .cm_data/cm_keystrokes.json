@@ -1023,5 +1023,49 @@
             "keyStrokeInfo": "reduceLife",
             "position": "67,5"
         }
+    ],
+    "appp.py": [
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 03:26:00",
+            "keyStrokeInfo": "",
+            "position": "86,5"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 03:26:01",
+            "keyStrokeInfo": "    ",
+            "position": "86,5"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 03:26:26",
+            "keyStrokeInfo": "",
+            "position": "82,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 03:26:28",
+            "keyStrokeInfo": "\r\n",
+            "position": "81,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 03:26:30",
+            "keyStrokeInfo": "    global direct",
+            "position": "81,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 03:26:32",
+            "keyStrokeInfo": "",
+            "position": "82,14"
+        }
     ]
 }

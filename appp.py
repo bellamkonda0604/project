@@ -78,8 +78,8 @@ my_canvas.create_line(100,20,100,400)
 direct=2
 my_canvas.create_line(200,20,200,400)
 def left(event):
-    x=-(w//3)
     global direct
+    x=-(w//3)
     y=0
     if direct>1:
         direct=direct-1
