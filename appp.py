@@ -23,7 +23,7 @@ my_canvas=Canvas(root,width=w, height=h,bg="#c2b280")
 my_canvas.pack(pady=20)
 score_text=my_canvas.create_text(115,0,anchor='nw',font=('Oswald',15,'bold'),fill='black',text='score='+str(0))
 
-speed=500
+speed=1000
 interval=4000
 
 obst=[]

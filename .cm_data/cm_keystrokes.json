@@ -3628,6 +3628,27 @@
             "keyStrokeTimeStamp": "Sat Nov 07 2020 03:50:49",
             "keyStrokeInfo": "t",
             "position": "42,60"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 09:45:57",
+            "keyStrokeInfo": "",
+            "position": "26,7"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 09:46:00",
+            "keyStrokeInfo": "1",
+            "position": "26,7"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 09:46:00",
+            "keyStrokeInfo": "0",
+            "position": "26,8"
         }
     ]
 }
