@@ -30,9 +30,6 @@ obst=[]
 aa=0
 direct=2
 
-
-
-
 # Creating obstacles
 def create_obs():
     global aa
@@ -59,7 +56,6 @@ def move_obs():
             if y2 > canvas_height:
                 obst.remove(obs)
         root.after(speed,move_obs)
-
 
 # Left movement of the ball
 def left(event):

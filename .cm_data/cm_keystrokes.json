@@ -3649,6 +3649,34 @@
             "keyStrokeTimeStamp": "Sat Nov 07 2020 09:46:00",
             "keyStrokeInfo": "0",
             "position": "26,8"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 18:37:02",
+            "keyStrokeInfo": "",
+            "position": "32,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 18:37:02",
+            "keyStrokeInfo": "",
+            "position": "31,9"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 18:37:04",
+            "keyStrokeInfo": "",
+            "position": "32,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sat Nov 07 2020 18:37:08",
+            "keyStrokeInfo": "",
+            "position": "59,1"
         }
     ]
 }
